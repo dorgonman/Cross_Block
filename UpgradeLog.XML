@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="thesis_game">
+</Property><Property Name="Solution File" Value="F:\程式工作區\thesis_game\thesis_game.sln">
+</Property><Property Name="User Options File" Value="F:\程式工作區\thesis_game\thesis_game.suo">
+</Property><Property Name="Date" Value="2010年8月13日">
+</Property><Property Name="Time" Value="下午 22:59">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="thesis_game.sln" Description="File successfully backed up as F:\程式工作區\thesis_game\thesis_game.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="thesis_game.suo" Description="File successfully backed up as F:\程式工作區\thesis_game\thesis_game.suo.old">
+</Event><Event ErrorLevel="0" Project="thesis_game" Source="thesis_game\thesis_game.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="thesis_game" Source="thesis_game\thesis_game.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="thesis_game" Source="thesis_game\thesis_game.vcproj" Description="Project file successfully backed up as 'F:\程式工作區\thesis_game\thesis_game\thesis_game.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="thesis_game" Source="thesis_game\thesis_game.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="thesis_game" Source="thesis_game\thesis_game.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="thesis_game.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="thesis_game.sln" Description="Converted">
+</Event></UpgradeLog>

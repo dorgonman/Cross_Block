@@ -1,0 +1,8 @@
+[game state]//棋盤狀況
+[sizex]//棋盤大小
+[sizey]
+[cross number]//一次消幾個
+[solved step]//是幾步解
+[nDeadRoad]//遇到活路之前有多少死路
+[nNode]//展開了幾個node
+[backtrace]//做了幾次backtrace
